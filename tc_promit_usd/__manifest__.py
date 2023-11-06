@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "TIPO DE CAMBIO GUATE USD",
+    'name': "Tipo de Cambio Guatemala USD",
 
-    'summary': """Modulo que actualiza el tipo de cambio diario en base a BANGUAT""",
+    'summary': """Modulo que actualiza el tipo de cambio diario en base a BANGUAT, solo funciona para USD
+    Configure la hora de actualización en Técnico>>Acciones Planificadas>>Enviar Solicitud de Tipo de Cambio
+    """,
 
     'description': """
         Modulo que actualiza el tipo de cambio diario en base a BANGUAT"
